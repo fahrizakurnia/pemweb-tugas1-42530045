@@ -7,4 +7,4 @@ landing page portofolio satu halaman yang diranvang menggunakan HTML dan CSS
     3. Sertifikasi  Profesional yang menunjukan sertifikat kompetensi atau lisensi profesional yang dimiliki.
     4. Aksebilitas WCAG 2.1  yang memastikan situs web dapat diakses dengan mudah oleh semua orang dan memuat halaman dengan cepat
 
-Link Live Preview
+Link Live Preview: https://fahrizakurnia.github.io/pemweb-tugas1-42530045/
