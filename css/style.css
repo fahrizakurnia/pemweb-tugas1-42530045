@@ -282,3 +282,56 @@ main {
 .footer-links a {
   color: #f1f5f9;
 }
+@media (min-width: 768px) {
+  .site-header {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1.25rem 2.5rem;
+  }
+
+  .hero-section {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 3.5rem;
+  }
+
+  .hero-content {
+    flex: 1;
+  }
+
+  .hero-image-wrapper {
+    max-width: 280px;
+  }
+
+  .cta-buttons {
+    flex-direction: row;
+    width: auto;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+}
+
+/* Desktop Breakpoint (min-width: 1024px) */
+@media (min-width: 1024px) {
+  main {
+    padding: 3rem 2rem;
+  }
+
+  h1 {
+    font-size: 2.75rem;
+  }
+
+  .site-footer {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 3rem;
+  }
+}
